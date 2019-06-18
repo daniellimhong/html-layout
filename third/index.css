@@ -1,0 +1,41 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    height: 15vh;
+    width: 100%;
+}
+
+.row-1{
+    background: lightgrey;
+    /* box-sizing: border-box; */
+}
+
+.blue-box{
+    background: rgb(55, 159, 219);
+    width: 70px;
+    height: 70px;
+}
+
+.row2{
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+.blue3 {
+    background: lightblue;
+}
+
+.green4 {
+    background: rgb(97, 197, 201);
+}
+
+.idk5{
+    background: rgb(175, 223, 103);
+}
+
+.yel6{
+    background: rgb(226, 226, 45);
+}
